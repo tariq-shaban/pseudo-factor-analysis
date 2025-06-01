@@ -127,10 +127,10 @@ If you use this implementation in your research, please cite both the original p
 
 ### This Implementation
 ```bibtex
-@software{shaban2024pfa,
+@software{shaban2025pfa,
   author = {Shaban, Tariq},
   title = {Pseudo Factor Analysis Implementation},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/tariq-shaban/pseudo-factor-analysis},
   note = {Python implementation of PFA methodology}
 }
@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Tariq Shaban
+Copyright (c) 2025 Tariq Shaban
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
